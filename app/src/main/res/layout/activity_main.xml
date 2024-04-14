@@ -44,6 +44,7 @@
 
             </TextView>
             <ImageView
+                android:id="@+id/menu"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:src="@drawable/menu"
@@ -113,6 +114,7 @@
         </TextView>
 
         <TextView
+            android:id="@+id/register_or_login_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/button_background"
@@ -456,7 +458,7 @@
 
             </TextView>
         </LinearLayout>
-w
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -472,11 +474,106 @@ w
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                >
+                android:text="@string/email"
+                android:textColor="@color/grey_white"
+                android:layout_marginLeft="10dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/phone">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/phone"
+                android:textColor="@color/grey_white"
+                android:layout_marginLeft="10dp">
 
             </TextView>
 
         </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/location"
+                android:layout_marginLeft="150dp"
+                >
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/location"
+                android:textColor="@color/grey_white"
+                >
+
+            </TextView>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/facebook"
+                android:layout_marginLeft="50dp">
+            </ImageView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/twitter"
+                android:layout_marginLeft="70dp"
+                >
+            </ImageView>
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:src="@drawable/linkedin"
+                android:layout_marginLeft="70dp"
+                >
+            </ImageView>
+        </LinearLayout>
+
+
+        <TextView
+            android:text="@string/main_decrypt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/grey_white"
+            android:layout_marginTop="50dp"
+            android:textAlignment="center"
+            >
+
+        </TextView>
+
+        <TextView
+            android:text="@string/privacy_policy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/grey_white"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:paddingBottom="30dp"
+            >
+
+        </TextView>
 
     </LinearLayout>
 

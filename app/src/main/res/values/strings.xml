@@ -4,10 +4,10 @@
     <string name="welcome">Добро пожаловать в
 Soft Hand!
 Расширяем возможности вашего финансового пути</string>
-    <string name="welcome_text_description">Наша миссия в YourBank — предоставлять комплексные банковские решения, которые позволяют частным лицам и предприятиям достигать своих финансовых целей.. Мы стремимся предоставлять персонализированные и инновационные услуги, учитывающие потребности наших клиентов.</string>
+    <string name="welcome_text_description">Наша миссия в Soft Hand — предоставлять комплексные банковские решения, которые позволяют частным лицам и предприятиям достигать своих финансовых целей.. Мы стремимся предоставлять персонализированные и инновационные услуги, учитывающие потребности наших клиентов.</string>
     <string name="registration_button">Открыть аккаунт</string>
     <string name="services_heading">Наши услуги</string>
-    <string name="services_description">Откройте для себя ряд комплексных и настраиваемых банковских продуктов YourBank, разработанных с учетом ваших уникальных финансовых потребностей и стремлений.</string>
+    <string name="services_description">Откройте для себя ряд комплексных и настраиваемых банковских продуктов Soft Hand, разработанных с учетом ваших уникальных финансовых потребностей и стремлений.</string>
     <string name="services_list_1">Акций</string>
     <string name="services_list_2">Лизинг</string>
     <string name="services_list_3">Кредит</string>
@@ -22,5 +22,27 @@ Soft Hand!
     <string name="direction_description_1">Индивидуальное предпринимательство - это ваша свобода и уникальность. Мы, компания Soft Hand, ценим индивидуальность и гибкость бизнеса. Наша цель - помочь вашему предпринимательству стать еще более эффективным. Доверьтесь нам для инновационных решений и успеха вашего бизнеса.</string>
     <string name="direction_description_2">"Товарищество с ограниченной ответственностью (ТОО) - ваш партнер в стабильном бизнесе. Мы - Soft Hand, готовы помочь вашему предприятию достичь успеха. Доверьтесь нам для инновационных и профессиональных решений."</string>
     <string name="direction_description_3">С нашими инновационными решениями ваше Акционерское общество (АО) станет ещё более эффективным и конкурентоспособным. Мы предлагаем профессиональное сопровождение и поддержку, чтобы ваш бизнес мог добиться максимальных результатов в своей отрасли. Доверьтесь нам для достижения новых высот вместе</string>
-
+    <string name="email">Soft_Hand@gmail.com</string>
+    <string name="phone">+7 701 930 1514</string>
+    <string name="location">Satbayev University</string>
+    <string name="main_decrypt">Soft Hand All Rights Reserved</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="welcome_text">Добро пожаловать</string>
+    <string name="have_account">У меня уже есть аккаунт, хочу зайти!</string>
+    <string name="login_link_text">Зайти!</string>
+    <string name="name">Имя</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="your_surname">Ваша фамилия</string>
+    <string name="post">Почта</string>
+    <string name="your_email">Адрес почты</string>
+    <string name="password">Пароль</string>
+    <string name="your_password">Пароль, например 123456</string>
+    <string name="registration">Регистрация</string>
+    <string name="hello">С возвращением</string>
+    <string name="havent_account">У вас есть нет аккаунта?</string>
+    <string name="create_phrase">Создайте!</string>
+    <string name="remember_me">Запомнить меня</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="login">Войти</string>
 </resources>
